@@ -1,0 +1,52 @@
+body{
+    background: rgb(49, 49, 49);
+}
+
+h1{
+    text-align: center;
+    color:rgb(235, 235, 235);
+    margin-top: 6%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.container{
+    text-align: center;
+    margin-top: 3%;
+}
+
+table{
+    margin: auto;
+    padding: 4%;
+    border: #FFFF33 2px solid;
+}
+
+.title{
+    font-size: 25px;
+}
+
+input{
+    font-size: 23px;
+}
+
+input[type="button"]{
+    border:none;
+    width:100%;
+    padding: 1.5rem;
+    background-color: transparent;
+    color: lime;
+}
+
+input[type="button"]:hover{
+    color: #FFFF33;
+    background-color: rgb(58, 56, 56);
+}
+
+input[type="text"]{
+    background: transparent;
+    outline:none;
+    border: 2px solid lime;
+    padding:1.2rem;
+    caret-color: #FFFF33;
+    border-radius: 3%;
+}
+
