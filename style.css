@@ -16,7 +16,7 @@ h1{
 
 table{
     margin: auto;
-    padding: 4%;
+    padding: 3.5%;
     border: #FFFF33 2px solid;
 }
 
@@ -31,7 +31,7 @@ input{
 input[type="button"]{
     border:none;
     width:100%;
-    padding: 1.5rem;
+    padding: 1.1rem;
     background-color: transparent;
     color: lime;
 }
@@ -39,6 +39,7 @@ input[type="button"]{
 input[type="button"]:hover{
     color: #FFFF33;
     background-color: rgb(58, 56, 56);
+    cursor: pointer;
 }
 
 input[type="text"]{
