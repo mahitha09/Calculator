@@ -45,7 +45,7 @@ input[type="button"]:hover{
 input[type="text"]{
     background: transparent;
     outline:none;
-    border: 2px solid lime;
+    border: 2px solid #FFFF33;
     padding:1.2rem;
     caret-color: #FFFF33;
     border-radius: 3%;
